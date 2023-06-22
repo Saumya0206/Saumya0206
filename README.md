@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+* 👂 My name is Soumya Vaish. I'm a 2023 graduate from IIT Jodhpur.
+* * 🤝 I’m looking for a new job.
+* * 📫 How to reach me:
+  * [LinkedIn](https://www.linkedin.com/in/soumya-vaish-6a9b341ab/)
+  * [Gmail](mailto:saumyaaaaa0206@gmail.com)
+  * [Instagram](https://www.instagram.com/__saumyaaaaa___/)
 <!--
 **Saumya0206/Saumya0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
