@@ -4,10 +4,9 @@
 * 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/soumya-vaish-6a9b341ab/)
   * [Gmail](mailto:saumyaaaaa0206@gmail.com)
-  * [Instagram](https://www.instagram.com/__saumyaaaaa___/)
 * <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 
